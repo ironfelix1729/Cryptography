@@ -1,2 +1,2 @@
 # Cryptography
-this will feature various toy cases of crypto-protocols (either in python or C/C++) starting with Elliptic curve based key exchange and building towards ZK protocols. We will also add some mathematical background, starting with Schoof's algorithm
+this will feature various toy cases of crypto-protocols (either in python or C/C++) starting with Elliptic curve based key exchange and building towards ZK protocols. We will also add some mathematical background.
